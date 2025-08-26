@@ -17,7 +17,7 @@
 
 # UN1CA configuration file for Snapdragon devices (qssi)
 
-# SOURCE_NAME="Galaxy S23"
+SOURCE_NAME="Galaxy S23"
 SOURCE_CODENAME="dm1q"
 SOURCE_FIRMWARE="SM-S911B/EUX/352404911234563"
 SOURCE_EXTRA_FIRMWARES=()
